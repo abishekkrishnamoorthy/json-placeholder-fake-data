@@ -19,7 +19,7 @@ function App() {
          console.log(err)
         }
       }
-        (async ()=> await handle()) ()  
+        (async ()=> await handle()) ()
     }, [btnvalue])
 
   return (
